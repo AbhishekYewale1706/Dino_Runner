@@ -138,6 +138,10 @@
 		{
 			"Name": "AnimationSharing",
 			"Enabled": false
+		},
+		{
+			"Name": "EnvironmentQueryEditor",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
